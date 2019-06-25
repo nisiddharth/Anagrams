@@ -1,5 +1,5 @@
 # Anagrams
-### Guess the Scrambled Word!!
+### Guess the Unscrambled Word!!
 <br>
 A simple game with Scrambled Words, you have to guess the Unsrambled form :smiley:
 <br>
